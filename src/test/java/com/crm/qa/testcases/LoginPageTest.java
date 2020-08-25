@@ -11,9 +11,9 @@ import com.crm.qa.pages.HomePage;
 import com.crm.qa.pages.LoginPage;
 
 public class LoginPageTest extends TestBase {
-	//Login page object
+	//Login page objects
 	LoginPage loginPage;
-	//Home page object
+	//Home page objects
 	HomePage homePage;
 	
 	public LoginPageTest() {
