@@ -13,6 +13,7 @@ import com.crm.qa.pages.LoginPage;
 public class LoginPageTest extends TestBase {
 	//Login page object
 	LoginPage loginPage;
+	//Home page object
 	HomePage homePage;
 	
 	public LoginPageTest() {
